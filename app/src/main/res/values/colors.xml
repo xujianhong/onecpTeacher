@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="blue_500">#166FDF</color>
+    <color name="blue_700">#459FED</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="color_f5f5f5">#f5f5f5</color>
+    <color name="color_d6d6d6">#d6d6d6</color>
+    <color name="color_969696">#969696</color>
+    <color name="color_e4854d">#e4854d</color>
+    <color name="color_e92126">#e92126</color>
+    <color name="color_09d957">#09d957</color>
+    <color name="color_686868">#333333</color>
+    <color name="color_10686868">#10686868</color>
+    <color name="color_333333">#333333</color>
+    <color name="color_010101">#010101</color>
+
+
+
+    <!--选择图片视频-->
+    <color name="colorText">#757575</color>
+    <color name="colorRipple">#c6c6c6</color>
+    <color name="colorShadow">#393939</color>
+    <color name="colorCheckTranslucent">#ab000000</color>
+    <color name="colorBtnTransparent">#3c000000</color>
+    <color name="colorCameraBg">#F5F5F5</color>
+    <color name="red_ff">#ff1717</color>
+    <color name="red_e8">#e80115</color>
+    <color name="gray_31">#313131</color>
+    <color name="black_aa1f">#aa1f1f1f</color>
+    <color name="colorPlayerBg">#481b1b1b</color>
+    <color name="red_c6">#c64849</color>
+    <color name="red_c1">#c15858</color>
+    <color name="black_39">#393939</color>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--选择图片视频recycleview item点击事件-->
+    <item name="item_click_support" type="id" />
+    <!--播放视频-->
+    <item name="scroller_visibility" type="id" />
+    <item name="progressbar_visibility" type="id"/>
+</resources>

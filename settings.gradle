@@ -1,0 +1,7 @@
+rootProject.name = "OnecpTeacher"
+include ':app'
+include ':arms'
+include ':arms-imageloader-glide'
+include ':videoRecord'
+include ':videocompressor'
+include ':imagepicker'

@@ -1,0 +1,15 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.OnecpTeacher" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/blue_500</item>
+        <item name="colorPrimaryDark">@color/blue_700</item>
+        <item name="colorAccent">@color/white</item>
+        <!-- Secondary brand color. -->
+        <!-- 设置activity切换动画 -->
+        <item name="android:windowAnimationStyle">@style/AnimationActivity</item>
+        <!--移除布局中不需要的背景-->
+        <item name="android:windowBackground">@color/white</item>
+        <item name="actionMenuTextColor">@color/white</item>
+    </style>
+</resources>

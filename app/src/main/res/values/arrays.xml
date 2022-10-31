@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="credentialsType">
+        <item>选择证件类型</item>
+        <item>身份证</item>
+        <item>港澳通行证</item>
+        <item>台胞证</item>
+        <item>护照</item>
+    </string-array>
+
+    <string-array name="sex">
+        <item>请选择性别</item>
+        <item>男</item>
+        <item>女</item>
+    </string-array>
+
+    <string-array name="grade">
+        <item>选择年级</item>
+        <item>小学一年级</item>
+        <item>小学二年级</item>
+        <item>小学三年级</item>
+        <item>小学四年级</item>
+        <item>小学五年级</item>
+        <item>小学六年级</item>
+        <item>初一年级</item>
+        <item>初二年级</item>
+        <item>初三年级</item>
+    </string-array>
+
+
+    <string-array name="classNumber">
+        <item>选择班级</item>
+        <item>一班</item>
+        <item>二班</item>
+        <item>三班</item>
+        <item>四班</item>
+        <item>五班</item>
+        <item>六班</item>
+        <item>七班</item>
+        <item>八班</item>
+        <item>九班</item>
+        <item>十班</item>
+        <item>十一班</item>
+        <item>十二班</item>
+        <item>十三班</item>
+        <item>十四班</item>
+        <item>十五班</item>
+        <item>十六班</item>
+        <item>十七班</item>
+        <item>十八班</item>
+        <item>十九班</item>
+        <item>二十班</item>
+    </string-array>
+</resources>
